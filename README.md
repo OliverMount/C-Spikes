@@ -1,0 +1,1 @@
+This project contains a few useful C programs that may be necessary for most of the electrial enginnering purpose. This repository is created with an aim to develop a C based toolbox for computational neuroscience. It is a slow project and wish it would be get done within an year. If you are interested, please feel free to pull, commit, stage and merge! 
