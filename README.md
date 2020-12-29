@@ -1,2 +1,0 @@
-# LovelyC
-Classic C programs
