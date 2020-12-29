@@ -4,7 +4,7 @@
 
 #define MAX 10
 
-#define MYNAME "SEONG-YEON"
+#define MYNAME "Oliver Mount"
 #define  FMT "String is %s \n"
 #define PMN printf(FMT, MYNAME)
 #define PX printf("X is %d.\n", xx)
