@@ -9,3 +9,6 @@ It is a lame project and wish it would be get done within 5 years with strong fu
 
 If you are interested, please feel free to *pull*, *commit*, *stage* and *merge*! 
 
+## Steps in making a tool-box 
+1. Find out the basic data types needed
+2. Create a new data type using C struct, if necessary
