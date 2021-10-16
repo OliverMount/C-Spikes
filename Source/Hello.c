@@ -24,6 +24,7 @@ int *q=&b[0];
 printf("The address of the array is  %p \n" ,p);
 printf("The address of the array is  %p \n" ,q);
 
+// Just inserting a comment here for the git purpose
 
 
 return 0;
