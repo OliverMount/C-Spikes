@@ -13,3 +13,4 @@ If you are interested, please feel free to *pull*, *commit*, *stage* and *merge*
 1. Find out the basic data types needed
 2. Create a new data type using C struct, if necessary
 3. Make use of GNU libraries <https://www.gnu.org/software/libc/> and user-defined functions
+4. As for as this tool-box is concerned we may not need C++
