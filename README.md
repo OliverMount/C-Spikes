@@ -1,4 +1,4 @@
-# Classic C progrms
+# Classic C programs
 
 
 This repo. contains a few useful C codes that may be necessary for most of the enginnering applications. 
