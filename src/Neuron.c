@@ -1,6 +1,7 @@
 // A Neuron structure for simulation
 
 #include <stdio.h>
+#include<string.h>
 
 // Define the Neuron structure
 struct Neuron {
